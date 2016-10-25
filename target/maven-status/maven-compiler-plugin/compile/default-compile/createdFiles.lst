@@ -1,0 +1,6 @@
+com\hin\controller\UserController.class
+com\hin\dao\UserDao.class
+com\hin\service\UserService.class
+com\hin\controller\IndexController.class
+com\hin\entity\User.class
+com\hin\service\impl\UserServiceImpl.class
